@@ -90,7 +90,7 @@ header .navbar ul li a:hover{
     align-items: center;
     justify-content: center;
     flex-flow: column;
-    background:url("C:\Users\Vinay\OneDrive\Documents\GitHub\vinaybhagtani.github.io\images\bg-cover.jpg") no-repeat;
+    background:url(C:\Users\Vinay\OneDrive\Documents\GitHub\vinaybhagtani.github.io\images\bg-cover.jpg) no-repeat;
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
